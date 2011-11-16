@@ -161,3 +161,433 @@ org.eclipse.osgi.framework.internal.core.AbstractBundle$BundleStatusException
 	at org.eclipse.ui.internal.decorators.DecorationScheduler$1.ensureResultCached(DecorationScheduler.java:370)
 	at org.eclipse.ui.internal.decorators.DecorationScheduler$1.run(DecorationScheduler.java:330)
 	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SESSION 2011-11-15 19:40:15.925 -----------------------------------------------
+eclipse.buildId=M20110909-1335
+java.version=1.6.0_26
+java.vendor=Apple Inc.
+BootLoader constants: OS=macosx, ARCH=x86, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/wejdoane/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86 -product org.eclipse.epp.package.java.product -keyring /Users/wejdoane/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-15 19:40:18.371
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2011-11-15 19:42:39.262
+!MESSAGE Failed to load properties file for project 'HelloAndroid2'
+!SESSION 2011-11-15 19:55:12.031 -----------------------------------------------
+eclipse.buildId=M20110909-1335
+java.version=1.6.0_26
+java.vendor=Apple Inc.
+BootLoader constants: OS=macosx, ARCH=x86, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/wejdoane/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86 -product org.eclipse.epp.package.java.product -keyring /Users/wejdoane/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-15 19:55:14.399
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+!SESSION 2011-11-15 19:57:30.606 -----------------------------------------------
+eclipse.buildId=M20110909-1335
+java.version=1.6.0_26
+java.vendor=Apple Inc.
+BootLoader constants: OS=macosx, ARCH=x86, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/wejdoane/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86 -product org.eclipse.epp.package.java.product -keyring /Users/wejdoane/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-15 19:57:32.985
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.ui 4 4 2011-11-15 21:19:11.008
+!MESSAGE Referenced part does not exist yet: org.eclipse.ui.views.ProblemView.
+!SESSION 2011-11-16 09:33:09.028 -----------------------------------------------
+eclipse.buildId=M20110909-1335
+java.version=1.6.0_26
+java.vendor=Apple Inc.
+BootLoader constants: OS=macosx, ARCH=x86, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -keyring /Users/wejdoane/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86 -product org.eclipse.epp.package.java.product -keyring /Users/wejdoane/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:33:11.532
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:36:00.229
+!MESSAGE System property http.proxyHost has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:36:00.229
+!MESSAGE System property http.proxyPort has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:36:00.229
+!MESSAGE System property https.proxyHost has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:36:00.229
+!MESSAGE System property https.proxyPort has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:36:00.715
+!MESSAGE System property http.proxyHost has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:36:00.715
+!MESSAGE System property http.proxyPort has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:36:00.715
+!MESSAGE System property https.proxyHost has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:36:00.715
+!MESSAGE System property https.proxyPort has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:36:01.350
+!MESSAGE System property http.proxyHost has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:36:01.350
+!MESSAGE System property http.proxyPort has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:36:01.352
+!MESSAGE System property https.proxyHost has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:36:01.352
+!MESSAGE System property https.proxyPort has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:36:01.352
+!MESSAGE System property http.proxyHost has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:36:01.353
+!MESSAGE System property http.proxyPort has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:36:01.353
+!MESSAGE System property https.proxyHost has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:36:01.353
+!MESSAGE System property https.proxyPort has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:36:03.017
+!MESSAGE System property http.proxyHost has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:36:03.018
+!MESSAGE System property http.proxyPort has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:36:03.019
+!MESSAGE System property https.proxyHost has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:36:03.020
+!MESSAGE System property https.proxyPort has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:36:03.020
+!MESSAGE System property http.proxyHost has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:36:03.020
+!MESSAGE System property http.proxyPort has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:36:03.020
+!MESSAGE System property https.proxyHost has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:36:03.020
+!MESSAGE System property https.proxyPort has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:36:03.784
+!MESSAGE System property http.proxyHost has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:36:03.784
+!MESSAGE System property http.proxyPort has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:36:03.785
+!MESSAGE System property https.proxyHost has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:36:03.786
+!MESSAGE System property https.proxyPort has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:36:04.061
+!MESSAGE System property http.proxyHost has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:36:04.062
+!MESSAGE System property http.proxyPort has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:36:04.063
+!MESSAGE System property https.proxyHost has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:36:04.063
+!MESSAGE System property https.proxyPort has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:36:05.815
+!MESSAGE System property http.proxyHost has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:36:05.815
+!MESSAGE System property http.proxyPort has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:36:05.817
+!MESSAGE System property https.proxyHost has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:36:05.817
+!MESSAGE System property https.proxyPort has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:36:06.314
+!MESSAGE System property http.proxyHost has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:36:06.314
+!MESSAGE System property http.proxyPort has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:36:06.315
+!MESSAGE System property https.proxyHost has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:36:06.315
+!MESSAGE System property https.proxyPort has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:36:08.837
+!MESSAGE System property http.proxyHost has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:36:08.837
+!MESSAGE System property http.proxyPort has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:36:08.839
+!MESSAGE System property https.proxyHost has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:36:08.839
+!MESSAGE System property https.proxyPort has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:36:10.475
+!MESSAGE System property http.proxyHost has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:36:10.475
+!MESSAGE System property http.proxyPort has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:36:10.476
+!MESSAGE System property https.proxyHost has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:36:10.477
+!MESSAGE System property https.proxyPort has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:36:11.452
+!MESSAGE System property http.proxyHost has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:36:11.452
+!MESSAGE System property http.proxyPort has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:36:11.453
+!MESSAGE System property https.proxyHost has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:36:11.453
+!MESSAGE System property https.proxyPort has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:36:11.839
+!MESSAGE System property http.proxyHost has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:36:11.840
+!MESSAGE System property http.proxyPort has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:36:11.841
+!MESSAGE System property https.proxyHost has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:36:11.841
+!MESSAGE System property https.proxyPort has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:36:11.928
+!MESSAGE System property http.proxyHost has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:36:11.929
+!MESSAGE System property http.proxyPort has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:36:11.929
+!MESSAGE System property https.proxyHost has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:36:11.929
+!MESSAGE System property https.proxyPort has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:36:12.351
+!MESSAGE System property http.proxyHost has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:36:12.351
+!MESSAGE System property http.proxyPort has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:36:12.352
+!MESSAGE System property https.proxyHost has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:36:12.352
+!MESSAGE System property https.proxyPort has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:36:34.936
+!MESSAGE System property http.proxyHost has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:36:34.936
+!MESSAGE System property http.proxyPort has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:36:34.936
+!MESSAGE System property https.proxyHost has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:36:34.936
+!MESSAGE System property https.proxyPort has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:36:34.937
+!MESSAGE System property http.proxyHost has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:36:34.938
+!MESSAGE System property http.proxyPort has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:36:34.938
+!MESSAGE System property https.proxyHost has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:36:34.938
+!MESSAGE System property https.proxyPort has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:40:28.248
+!MESSAGE System property http.proxyHost has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:40:28.248
+!MESSAGE System property http.proxyPort has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:40:28.249
+!MESSAGE System property https.proxyHost has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:40:28.249
+!MESSAGE System property https.proxyPort has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:40:28.276
+!MESSAGE System property http.proxyHost has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:40:28.277
+!MESSAGE System property http.proxyPort has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:40:28.277
+!MESSAGE System property https.proxyHost has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:40:28.277
+!MESSAGE System property https.proxyPort has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:41:52.235
+!MESSAGE System property http.proxyHost has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:41:52.236
+!MESSAGE System property http.proxyPort has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:41:52.236
+!MESSAGE System property https.proxyHost has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:41:52.236
+!MESSAGE System property https.proxyPort has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:41:52.574
+!MESSAGE System property http.proxyHost has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:41:52.575
+!MESSAGE System property http.proxyPort has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:41:52.576
+!MESSAGE System property https.proxyHost has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:41:52.576
+!MESSAGE System property https.proxyPort has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:45:07.353
+!MESSAGE System property http.proxyHost has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:45:07.354
+!MESSAGE System property http.proxyPort has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:45:07.354
+!MESSAGE System property https.proxyHost has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:45:07.355
+!MESSAGE System property https.proxyPort has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:45:07.399
+!MESSAGE System property http.proxyHost has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:45:07.400
+!MESSAGE System property http.proxyPort has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:45:07.400
+!MESSAGE System property https.proxyHost has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:45:07.400
+!MESSAGE System property https.proxyPort has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:45:30.968
+!MESSAGE System property http.proxyHost has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:45:30.968
+!MESSAGE System property http.proxyPort has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:45:30.969
+!MESSAGE System property https.proxyHost has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:45:30.969
+!MESSAGE System property https.proxyPort has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:45:30.969
+!MESSAGE System property http.proxyHost has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:45:30.969
+!MESSAGE System property http.proxyPort has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:45:30.969
+!MESSAGE System property https.proxyHost has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:45:30.970
+!MESSAGE System property https.proxyPort has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:45:53.711
+!MESSAGE System property http.proxyHost has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:45:53.712
+!MESSAGE System property http.proxyPort has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:45:53.712
+!MESSAGE System property https.proxyHost has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:45:53.712
+!MESSAGE System property https.proxyPort has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:45:53.713
+!MESSAGE System property http.proxyHost has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:45:53.713
+!MESSAGE System property http.proxyPort has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:45:53.713
+!MESSAGE System property https.proxyHost has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:45:53.713
+!MESSAGE System property https.proxyPort has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:48:46.804
+!MESSAGE System property http.proxyHost has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:48:46.804
+!MESSAGE System property http.proxyPort has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:48:46.805
+!MESSAGE System property https.proxyHost has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:48:46.805
+!MESSAGE System property https.proxyPort has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:48:47.143
+!MESSAGE System property http.proxyHost has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:48:47.145
+!MESSAGE System property http.proxyPort has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:48:47.145
+!MESSAGE System property https.proxyHost has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:48:47.145
+!MESSAGE System property https.proxyPort has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:51:55.539
+!MESSAGE System property http.proxyHost has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:51:55.540
+!MESSAGE System property http.proxyPort has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:51:55.540
+!MESSAGE System property https.proxyHost has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:51:55.540
+!MESSAGE System property https.proxyPort has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:51:55.575
+!MESSAGE System property http.proxyHost has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:51:55.576
+!MESSAGE System property http.proxyPort has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:51:55.576
+!MESSAGE System property https.proxyHost has been set to  by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.core.net 1 0 2011-11-16 09:51:55.576
+!MESSAGE System property https.proxyPort has been set to  by an external source. This value will be overwritten using the values from the preferences
