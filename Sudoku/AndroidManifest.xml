@@ -22,7 +22,8 @@
         
         <activity
             android:label="@string/about_title"
-            android:name=".About" >
+            android:name=".About" 
+            android:theme="@android:style/Theme.Dialog" >
         </activity>
     </application>
 
